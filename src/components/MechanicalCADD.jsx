@@ -44,7 +44,7 @@ const MechanicalCADD = () => {
             {/* Card 1 */}
             <div className="bg-white rounded-lg shadow-md w-full md:w-[90%] lg:w-[70%] flex flex-col">
               <img
-                src="src/BranchImage/product-design.jpg"
+                src="product-design.jpg"
                 alt="Product Design"
                 className="w-full h-40 object-cover rounded-t-lg"
               />
@@ -72,7 +72,7 @@ const MechanicalCADD = () => {
             {/* Card 2 */}
             <div className="bg-white rounded-lg shadow-md w-full md:w-[90%] lg:w-[70%] flex flex-col">
               <img
-                src="src/BranchImage/mep-design.jpg"
+                src="mep-design.jpg"
                 alt="MEP Design"
                 className="w-full h-40 object-cover rounded-t-lg"
               />
