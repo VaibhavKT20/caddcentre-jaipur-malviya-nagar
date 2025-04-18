@@ -12,7 +12,7 @@ const StudentProjectsPage = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           <ProjectCard image="src/assets/Rajesh.jpg" />
           <ProjectCard image="src/assets/Vignesh.jpg" />
-          <ProjectCard image="src\assets\Sreesankar.jpg" />
+          <ProjectCard image="src/assets/Sreesankar.jpg" />
         </div>
       </div>
     </div>
