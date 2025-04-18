@@ -46,7 +46,7 @@ const InformationTechnologyCADD = () => {
             {/* Card 1 */}
             <div className="bg-white rounded-lg shadow-md w-full md:w-[90%] lg:w-[70%] flex flex-col">
               <img
-                src="src\images\python.jpg"
+                src="src\BranchImage\python.jpg"
                 alt="Expert Certificate in Python"
                 className="w-full h-40 object-cover rounded-t-lg"
               />
@@ -71,7 +71,7 @@ const InformationTechnologyCADD = () => {
             {/* Card 2 */}
             <div className="bg-white rounded-lg shadow-md w-full md:w-[90%] lg:w-[70%] flex flex-col">
               <img
-                src="src\images\java.jpg"
+                src="src\BranchImage\java.jpg"
                 alt="Expert Certificate in Java"
                 className="w-full h-40 object-cover rounded-t-lg"
               />
